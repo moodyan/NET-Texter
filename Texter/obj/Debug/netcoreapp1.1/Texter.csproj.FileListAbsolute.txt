@@ -1,0 +1,9 @@
+C:\Users\alyssamoody\Desktop\Texter\Texter\bin\Debug\netcoreapp1.1\Texter.deps.json
+C:\Users\alyssamoody\Desktop\Texter\Texter\bin\Debug\netcoreapp1.1\Texter.runtimeconfig.json
+C:\Users\alyssamoody\Desktop\Texter\Texter\bin\Debug\netcoreapp1.1\Texter.runtimeconfig.dev.json
+C:\Users\alyssamoody\Desktop\Texter\Texter\bin\Debug\netcoreapp1.1\Texter.dll
+C:\Users\alyssamoody\Desktop\Texter\Texter\obj\Debug\netcoreapp1.1\Texter.csprojResolveAssemblyReference.cache
+C:\Users\alyssamoody\Desktop\Texter\Texter\obj\Debug\netcoreapp1.1\Texter.AssemblyInfo.cs
+C:\Users\alyssamoody\Desktop\Texter\Texter\bin\Debug\netcoreapp1.1\Texter.pdb
+C:\Users\alyssamoody\Desktop\Texter\Texter\obj\Debug\netcoreapp1.1\Texter.dll
+C:\Users\alyssamoody\Desktop\Texter\Texter\obj\Debug\netcoreapp1.1\Texter.pdb
