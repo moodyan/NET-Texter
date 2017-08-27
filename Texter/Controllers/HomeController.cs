@@ -13,6 +13,10 @@ namespace Texter.Controllers
         {
             return View();
         }
+        public IActionResult TestPage()
+        {
+            return View();
+        }
         public IActionResult GetMessages()
         {
             var allMessages = Message.GetMessages();
